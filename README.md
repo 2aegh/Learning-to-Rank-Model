@@ -117,9 +117,8 @@ Outliers were detected and capped using the Interquartile Range (IQR) method for
 - **Time Constraints**: Due to limited time, a comprehensive revision wasn't feasible. Future work should explore different merging strategies to enhance data alignment and reduce noise.
 - **Metric Evaluation**: Re-evaluate data integrity, preprocessing steps, and model configurations to ensure realistic assessments of model performance.
 
-## Author
-
-**Amirali Eghtesad**
+## Contact
+For questions or feedback, please contact **Amirali Eghtesad** at amirali.egh@gmail.com .
 
 ---
 
